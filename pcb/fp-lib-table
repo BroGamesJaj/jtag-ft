@@ -1,0 +1,10 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "jtag_ft_EEPROM") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_93LC66BT-I-OT/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "jtag_ft_FT2232HPQ") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_FT2232HPQ-TRAY/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "jtag_ft_LDO") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_NCP167AFCT350T2G/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "jtag_ft_Level_Shifter") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_TXU0304PWR/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "jtag_ft_Level_Shifter2") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_TXU0202DCUR/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "jtag_ft_Schottky_Diode") (type "KiCad") (uri "${KIPRJMOD}/lib/ul_PMEG3050BEP-115/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "USB4930") (type "KiCad") (uri "${KIPRJMOD}/lib/USB4930") (options "") (descr ""))
+)
