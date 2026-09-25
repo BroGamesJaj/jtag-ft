@@ -8,7 +8,9 @@ features:
 
 images:
 assembled board
+
 ![jtag-ft board](images/board_image.jpg)
 
 FT2232HP properties flashed
+
 ![usb device description](images/FT2232HP_programmed.png)
